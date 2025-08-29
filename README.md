@@ -38,6 +38,6 @@ To preprocess air quality data, extract meaningful features, and classify air qu
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/your-username/air-quality-aiml.git
+   git clone https://github.com/AnushreeS578/air-quality-aiml.git
    cd air-quality-aiml
  
