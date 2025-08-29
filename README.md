@@ -38,6 +38,20 @@ To preprocess air quality data, extract meaningful features, and classify air qu
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/AnushreeS578/air-quality-aiml.git
-   cd air-quality-aiml
+   git clone https://github.com/AnushreeS578/Air-Quality-Measurement.git
+cd Air-Quality-Measurement
+2. Open the notebook in Jupyter Notebook or Google Colab.  
+3. Upload the dataset (AirQualityUCI.csv).  
+4. Run all cells to preprocess and generate AQI categories.  
+
+## Internship Relevance
+This project directly addresses Environment Monitoring and Pollution Control by:  
+- Monitoring real-world pollution data.  
+- Using AI/ML to classify air quality.  
+- Helping in early warnings and decision-making for pollution control.
+
+
+
+
+
  
